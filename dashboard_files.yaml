@@ -1,5 +1,5 @@
 dashboard-files:
   - file_path: "dashboards/dashboard1.ipynb"
     name: Dashboard_1
-  - file_path: "dashboards/dashboard.py"
+  - file_path: "dashboards/dashboard2.py"
     name: Dashboard_2
